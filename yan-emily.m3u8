@@ -1,0 +1,69 @@
+#EXTM3U max-conn="2" url-tvg="https://play-berry.net/xmltv.xml.gz"
+#EXTINF:0 tvg-id="2673" tvg-logo="http://epg.it999.ru/img/2673.png" group-title="ישראל",Kan 11 IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2332/index.m3u8
+#EXTINF:0 tvg-id="12-kanal-il" group-title="ישראל" tvg-logo="https://play-berry.net/storage/images/pack_logos/4b9ab871a6266d2e476181eaa82e74ed.png" tvg-rec="7" catchup-days="7",Keshet 12 HD
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2329/index.m3u8
+#EXTINF:0 tvg-id="13-kanal-il" tvg-logo="http://epg.it999.ru/img/2671.png" group-title="ישראל",Reshet 13 IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2330/index.m3u8
+#EXTINF:0 tvg-id="13-kanal-il" tvg-logo="http://epg.it999.ru/img/2671.png" group-title="ישראל",CHANNEL 13 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12260/index.m3u8
+#EXTINF:0 tvg-id="14-kanal-il" tvg-logo="http://epg.it999.ru/img/4296.png" group-title="ישראל",Channel 14 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12261/index.m3u8
+#EXTINF:0 tvg-id="4021" tvg-logo="http://epg.it999.ru/img/4021.png" group-title="ישראל",Yes COMEDY HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2345/index.m3u8
+#EXTINF:0 tvg-id="2685" tvg-logo="http://epg.it999.ru/img/2685.png" group-title="ישראל",Hot HBO HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2354/index.m3u8
+#EXTINF:0 tvg-id="2717" tvg-logo="http://epg.it999.ru/img/2717.png" group-title="ישראל",i24 IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2386/index.m3u8
+#EXTINF:0 tvg-id="5024" tvg-logo="http://epg.it999.ru/img/5024.png" group-title="ישראל",HOT COMEDY CENTRAL HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12217/index.m3u8
+#EXTINF:0 tvg-id="5030" tvg-logo="http://epg.it999.ru/img/5030.png" group-title="ישראל",HUMOR CHANNEL HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12223/index.m3u8
+#EXTINF:0 tvg-id="4028" tvg-logo="http://epg.it999.ru/img/4028.png" group-title="ישראל",MUSIC 24 IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12226/index.m3u8
+#EXTINF:0 tvg-id="2681" tvg-logo="http://epg.it999.ru/img/2681.png" group-title="ישראל",ONE 1 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12230/index.m3u8
+#EXTINF:0 tvg-id="4313" tvg-logo="http://epg.it999.ru/img/4313.png" group-title="ישראל",Eurosport 2 HD
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7203/index.m3u8
+#EXTINF:0 tvg-id="2704" tvg-logo="http://epg.it999.ru/img/2704.png" group-title="ישראל",ONE 2 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12231/index.m3u8
+#EXTINF:0 tvg-id="2681" tvg-logo="http://epg.it999.ru/img/2681.png" group-title="ישראל",ONE HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2340/index.m3u8
+#EXTINF:0 tvg-id="2704" tvg-logo="http://epg.it999.ru/img/2704.png" group-title="ישראל",ONE 2 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2373/index.m3u8
+#EXTINF:0 tvg-id="4028" tvg-logo="http://epg.it999.ru/img/4028.png" group-title="ישראל",CHANNEL 24 MUSIC HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12262/index.m3u8
+#EXTINF:0 tvg-id="sport1-hd-il" group-title="ישראל" tvg-logo="https://play-berry.net/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png" tvg-rec="7" catchup-days="7",Sport 1 HD
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2353/index.m3u8
+#EXTINF:0 tvg-id="2684" tvg-logo="http://epg.it999.ru/img/2684.png" group-title="ישראל",SPORT 1 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12249/index.m3u8
+#EXTINF:0 tvg-id="2683" tvg-logo="http://epg.it999.ru/img/2683.png" group-title="ישראל",SPORT 2 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12250/index.m3u8
+#EXTINF:0 tvg-id="2683" tvg-logo="http://epg.it999.ru/img/2683.png" group-title="ישראל",SPORT 2 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2352/index.m3u8
+#EXTINF:0 tvg-id="2719" tvg-logo="http://epg.it999.ru/img/2719.png" group-title="ישראל",Sport 3 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2388/index.m3u8
+#EXTINF:0 tvg-id="2720" tvg-logo="http://epg.it999.ru/img/2720.png" group-title="ישראל",Sport 4 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2389/index.m3u8
+#EXTINF:0 tvg-id="2719" tvg-logo="http://epg.it999.ru/img/2719.png" group-title="ישראל",SPORT 3 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12251/index.m3u8
+#EXTINF:0 tvg-id="2720" tvg-logo="http://epg.it999.ru/img/2720.png" group-title="ישראל",SPORT 4 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12252/index.m3u8
+#EXTINF:0 tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" group-title="ישראל",Sport 5 IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2391/index.m3u8
+#EXTINF:0 tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" group-title="ישראל",Sport 5 HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2341/index.m3u8
+#EXTINF:0 tvg-id="4312" tvg-logo="http://epg.it999.ru/img/4312.png" group-title="ישראל",Sport 5+ Live HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2362/index.m3u8
+#EXTINF:0 tvg-id="3994" tvg-logo="http://epg.it999.ru/img/3994.png" group-title="ישראל",5 STARS HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12232/index.m3u8
+#EXTINF:0 tvg-id="3992" tvg-logo="http://epg.it999.ru/img/3992.png" group-title="ישראל",SPORT 5 GOLD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12254/index.m3u8
+#EXTINF:0 tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" group-title="ישראל",Sport 5 4K IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12277/index.m3u8
+#EXTINF:0 tvg-id="3994" tvg-logo="http://epg.it999.ru/img/3994.png" group-title="ישראל",Sport 5 Stars HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7074/index.m3u8
+#EXTINF:0 tvg-id="3994" tvg-logo="http://epg.it999.ru/img/3994.png" group-title="ישראל",STARS IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12278/index.m3u8
+#EXTINF:0 tvg-id="3993" tvg-logo="http://epg.it999.ru/img/3993.png" group-title="ישראל",SPORT 5 LIVE HD IL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12255/index.m3u8
